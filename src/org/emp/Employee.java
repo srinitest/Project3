@@ -16,6 +16,14 @@ public static void main(String[] args) {
 	System.out.println("Emp Gender:"+gen);
 	String city="Karaikudi";
 	System.out.println("Emp City:"+city);
-	
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
+	System.out.println("asdfghjk");
 }
 }
